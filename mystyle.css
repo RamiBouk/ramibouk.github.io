@@ -1,0 +1,18 @@
+body {
+    background-color: #181A1B;
+}
+
+#title {
+    padding-top: 160;
+    text-align: center;
+    color: white;
+    font-size: 32;
+    font-weight: 600;
+}
+
+#sub_title {
+    color: white;
+    padding-top: 16;
+    text-align: center;
+    font-size: large;
+}
